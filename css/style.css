@@ -1,3 +1,30 @@
 body{
-    background-color: aqua;
+    text-align: center;
+    margin: 0px;
+}
+.container-one{
+    background-color: #E4F9F5;
+}
+.container-two{
+    background-color: red;
+    height: 400px;;
+    width: 200px;
+}
+.container-three{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+.top
+{
+    height: 70px;
+}
+.top-cloud{
+    position: relative;
+    left:200px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 460px;
 }
